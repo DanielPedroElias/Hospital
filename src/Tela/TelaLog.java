@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author d4nny
+ * @author d4nny 
  */
 public class TelaLog extends javax.swing.JFrame {
 
