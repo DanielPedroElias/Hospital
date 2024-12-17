@@ -1,6 +1,6 @@
 Para testar o projeto use uma IDE voltada pra java como Eclipse, Net beans, entre outras.
 
---> Vá na pasta Tela e execute o arquivo Telalog.java 
+--> Vá na pasta src->Tela  e execute o arquivo Telalog.java 
 
 --> Usuario: admin
 --> Senha: 123
